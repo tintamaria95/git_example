@@ -1,0 +1,7 @@
+add
+commit
+push
+fetch
+merge
+pull
+clone
